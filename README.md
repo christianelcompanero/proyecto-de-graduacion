@@ -20,3 +20,29 @@ va a tratar de resolver el cambio climtico
                     ↓
 
 └──────────────────────────────────────────────────────────────┘
+
+
+>NAVBAR
+
+↓
+
+HERO
+
+↓
+
+SECCIÓN 1
+¿Por qué debemos cuidar el planeta?
+
+↓
+
+SECCIÓN 2
+Nuestros proyectos
+
+↓
+
+SECCIÓN 3
+Donaciones
+
+↓
+
+FOOTER
