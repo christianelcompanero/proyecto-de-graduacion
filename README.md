@@ -5,22 +5,18 @@ va a tratar de resolver el cambio climtico
 > me gustaria presentar este trabajo con pagina web y talvez vision por ordenador
 
 
->┌──────────────────────────────────────────┐
+>┌──────────────────────────────────────────────────────────────┐
 
-LOGO                          Inicio Nosotros Donar
+ EcoFuture                Inicio  Proyectos  Donar
 
-████████████████████████████████████████████
+                 🌍
 
-             PLANETA
+           SALVEMOS EL PLANETA
 
-          SALVEMOS
+   Cada pequeña acción construye un futuro sostenible.
 
-        NUESTRO HOGAR
+          [ ÚNETE AL CAMBIO ]
 
-      Nuestro planeta necesita...
+                    ↓
 
-          [ DONAR ]
-
-████████████████████████████████████████████
-
-└──────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────┘
